@@ -4,7 +4,8 @@
 ![Framework](https://img.shields.io/badge/Angular-darkred?style=flat&logo=angular&logoColor=white) ![Framework](https://img.shields.io/badge/Express-gray?style=flat&logo=express&logoColor=white)  
 ![Database](https://img.shields.io/badge/SQLite-blue?logo=sqlite&logoColor=white) ![Database](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white) ![PDO](https://img.shields.io/badge/PDO-777BB4?logo=php&logoColor=white)   
 ![Platform: Web](https://img.shields.io/badge/Platform-Web-blue?logo=google-chrome)
-![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-angular-php?color=yellow&logo=github) ![Size](https://img.shields.io/github/repo-size/ander1code/crud-angular-php?color=blue&logo=files) ![License](https://img.shields.io/github/license/ander1code/crud-angular-php?color=black&logo=open-source-initiative)
+
+![Last Commit](https://img.shields.io/github/last-commit/ander1code/crud-angular-php?color=yellow&logo=github) 
 
 ## 1. Description
 A **web-based CRUD application** developed with **Angular 7** on the client side and **PHP (API)** with an **SQLite3 database** on the server side, incorporating robust security features.
